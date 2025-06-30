@@ -21,7 +21,7 @@ const Projects = ({ darkMode }) => {
       image: "https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["React", "Tailwind", "Vite", "Framer Motion"],
       liveLink: "#Home",
-      githubLink: "https://github.com/RajeshDuggilla/portfolio-site",
+      githubLink: "https://github.com/RajeshDuggilla/personal-portfolio",
       category: "Frontend",
       date: "2025"
     },

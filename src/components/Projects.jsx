@@ -19,8 +19,8 @@ const Projects = ({ darkMode }) => {
       description:
         "A personal developer portfolio built with React and Bootstrap CSS featuring dark mode, AI assistant, and project filtering.",
       image: "https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg?auto=compress&cs=tinysrgb&w=800",
-      technologies: ["React", "Tailwind", "Vite", "Framer Motion"],
-      liveLink: "#Home",
+      technologies: ["React", "Bootstrap", "Js"],
+      liveLink: "https://rajeshportfolio19.netlify.app",
       githubLink: "https://github.com/RajeshDuggilla/personal-portfolio",
       category: "Frontend",
       date: "2025"
